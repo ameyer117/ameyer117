@@ -1,4 +1,4 @@
-### Hello There! I am Alec Meyer 👋😄
+### Hello there! I am Alec Meyer 👋😄
 
 
 <a href='https://www.linkedin.com/in/alec-meyer-linkedin/' target='_blank' rel='noopener' rel='noreferrer'>
@@ -13,17 +13,18 @@
 Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
 </br>
 
-- 🔭 I’m currently working on Python, JavaScript, NextJS and Flutter.
-- 🌱 I’m currently learning AWS, OpenShift, Software Architecture and Functional Programming
+- 🔭 I’m currently working on Python, C# and TypeScript.
+- 🌱 I’m currently learning Blazor, and how to build Shopify Apps.
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alec-meyer-linkedin/) or [Email](mailto:11meyal@gmail.com)
-- ⚡ Fun fact: I love automotive tech ❤️
 
 I write some articles about programming and more. Let's learn together and solve the worlds problems. Also, I am always open for any feedback, so don't hesitate to give me some.
 
 ### ⚡ Technology Stacks I Use
 
+![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat-square&logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
