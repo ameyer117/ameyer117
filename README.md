@@ -14,7 +14,7 @@ Do you have some interesting projects to share and open for collaboration? Let's
 </br>
 
 - 🔭 I’m currently working on Python, C# and TypeScript.
-- 🌱 I’m currently learning how to build Shopify Store Apps.
+- 🌱 I’m currently learning Machine Learning on AWS.
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alec-meyer-linkedin/) or [Email](mailto:11meyal@gmail.com)
