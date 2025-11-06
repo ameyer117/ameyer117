@@ -7,40 +7,41 @@
 </br>
 </br>
 
-<code>I am a software engineer enthusiast. I have extensive experience with creating backend, frontend and mobile applications. With experience using the latest cloud and devops tooling.</code>
+<code>I am an AI/ML engineer specializing in intelligent agent systems and LLM applications. I build production-ready AI solutions with Python, focusing on agentic workflows, RAG systems, and cloud-native ML infrastructure.</code>
 
 </br>
-Do you have some interesting projects to share and open for collaboration? Let's collaborate and feel free to contact me.</br>
+Do you have some interesting AI projects to share and open for collaboration? Let's build intelligent systems together and feel free to contact me.</br>
 </br>
 
-- 🔭 I’m currently working on Python, C# and TypeScript.
-- 🌱 I’m currently learning Machine Learning on AWS.
-- 👯 I’m looking to collaborate on any open-source projects
-- 💬 Ask me about anything
+- 🔭 I'm currently working on AI Agent development with LLMs and Vertex AI.
+- 🌱 I'm currently exploring Pydantic AI, Vercel AI SDK, and agentic frameworks.
+- 🤖 I'm building intelligent systems with memory, tool use, and autonomous decision-making.
+- 👯 I'm looking to collaborate on AI/ML open-source projects
+- 💬 Ask me about LLMs, AI agents, RAG systems, or ML infrastructure
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alec-meyer-linkedin/) or [Email](mailto:11meyal@gmail.com)
 
-I write some articles about programming and more. Let's learn together and solve the worlds problems. Also, I am always open for any feedback, so don't hesitate to give me some.
+I write about AI engineering, agent architectures, and building production ML systems. Let's learn together and solve real-world problems with intelligent automation.
 
-### ⚡ Technology Stacks I Use
+### ⚡ AI/ML Technology Stack
 
-![Blazor](https://img.shields.io/badge/-Blazor-black?style=flat-square&logo=blazor&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
-![Sklearn](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=scikit-learn)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=TensorFlow)
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square&logo=pinecone)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square&logo=chroma)
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
